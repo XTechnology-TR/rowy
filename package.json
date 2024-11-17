@@ -18,7 +18,7 @@
     "@mui/icons-material": "^5.2.0",
     "@mui/lab": "^5.0.0-alpha.58",
     "@mui/material": "^5.2.2",
-    "@mui/styles": "^5.2.2",
+    "@mui/styles": "^5.16.7",
     "@rowy/form-builder": "^0.4.2",
     "@rowy/multiselect": "^0.2.3",
     "@tinymce/tinymce-react": "^3.12.6",
