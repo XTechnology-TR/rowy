@@ -1495,6 +1495,13 @@
   dependencies:
     regenerator-runtime "^0.13.4"
 
+"@babel/runtime@^7.23.9":
+  version "7.26.0"
+  resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.26.0.tgz#8600c2f595f277c60815256418b85356a65173c1"
+  integrity sha512-FDSOghenHTiToteC/QRlv2q3DhPZ/oOXTBoirfWNx1Cx3TMVcGWQtMMmQcSvb/JjpNeGzx8Pq/b4fKEJuWm1sw==
+  dependencies:
+    regenerator-runtime "^0.14.0"
+
 "@babel/runtime@^7.7.2":
   version "7.8.7"
   resolved "https://registry.yarnpkg.com/@babel/runtime/-/runtime-7.8.7.tgz#8fefce9802db54881ba59f90bb28719b4996324d"
@@ -2425,12 +2432,12 @@
     prop-types "^15.7.2"
     react-is "^17.0.2"
 
-"@mui/icons-material@^5.2.0":
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/@mui/icons-material/-/icons-material-5.2.0.tgz#6c6135bb2d7891e29d6f9419df402b82dd663517"
-  integrity sha512-NvyrVaGKpP4R1yFw8BCnE0QcsQ67RtpgxPr4FtH8q60MDYPuPVczLOn5Ash5CFavoDWur/NfM/4DpT54yf3InA==
+"@mui/icons-material@^5.16.7":
+  version "5.16.7"
+  resolved "https://registry.yarnpkg.com/@mui/icons-material/-/icons-material-5.16.7.tgz#e27f901af792065efc9f3d75d74a66af7529a10a"
+  integrity sha512-UrGwDJCXEszbDI7yV047BYU5A28eGJ79keTCP4cc74WyncuVrnurlmIRxaHL8YK+LI1Kzq+/JM52IAkNnv4u+Q==
   dependencies:
-    "@babel/runtime" "^7.16.3"
+    "@babel/runtime" "^7.23.9"
 
 "@mui/lab@^5.0.0-alpha.58":
   version "5.0.0-alpha.58"
@@ -13990,6 +13997,11 @@ regenerator-runtime@^0.13.7:
   version "0.13.7"
   resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.13.7.tgz#cac2dacc8a1ea675feaabaeb8ae833898ae46f55"
   integrity sha512-a54FxoJDIr27pgf7IgeQGxmqUNYrcV338lf/6gH456HZ/PhX+5BcwHXG9ajESmwe6WRO0tAzRUrRmNONWgkrew==
+
+regenerator-runtime@^0.14.0:
+  version "0.14.1"
+  resolved "https://registry.yarnpkg.com/regenerator-runtime/-/regenerator-runtime-0.14.1.tgz#356ade10263f685dda125100cd862c1db895327f"
+  integrity sha512-dYnhHh0nJoMfnkZs6GmmhFknAGRrLznOu5nc9ML+EJxGvrx6H7teuevqVqCuPcPK//3eDrrjQhehXVx9cnkGdw==
 
 regenerator-transform@^0.14.2:
   version "0.14.4"
