@@ -21,7 +21,7 @@
     "@mui/styles": "^5.2.2",
     "@rowy/form-builder": "^0.4.2",
     "@rowy/multiselect": "^0.2.3",
-    "@tinymce/tinymce-react": "^3.12.6",
+    "@tinymce/tinymce-react": "^6.0.0",
     "algoliasearch": "^4.8.6",
     "ansi-to-react": "^6.1.5",
     "colord": "^2.7.0",

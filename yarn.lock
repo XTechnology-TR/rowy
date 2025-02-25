@@ -2946,13 +2946,12 @@
   dependencies:
     defer-to-connect "^1.0.1"
 
-"@tinymce/tinymce-react@^3.12.6":
-  version "3.13.0"
-  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-3.13.0.tgz#51ae6dbaa4076efde3389229d61c38e4533bc5ee"
-  integrity sha512-8+OHYIUP9W5D5z7gknausaG48ovQtEvjcK4c+zpha7QppRVVX0ltaINpo10V6Vb4qj9Jf7ZFfZpMRxxcFL2YvQ==
+"@tinymce/tinymce-react@^6.0.0":
+  version "6.0.0"
+  resolved "https://registry.yarnpkg.com/@tinymce/tinymce-react/-/tinymce-react-6.0.0.tgz#ca74d6e5190cc50f6c82684a1ad09e7507efc331"
+  integrity sha512-v5q6x3/kgg3rfQjFYrAm8ZVCnPbUgOuB3yUvSskp75VwR/EUQimONG4S16KL85kFbstiiat6AUDDLMXN4hRxhQ==
   dependencies:
     prop-types "^15.6.2"
-    tinymce "^5.5.1"
 
 "@tootallnate/once@1":
   version "1.1.2"
@@ -15733,7 +15732,7 @@ tinycolor2@^1.4.1:
   resolved "https://registry.yarnpkg.com/tinycolor2/-/tinycolor2-1.4.2.tgz#3f6a4d1071ad07676d7fa472e1fac40a719d8803"
   integrity sha512-vJhccZPs965sV/L2sU4oRQVAos0pQXwsvTLkWYdqJ+a8Q5kPFzJTuOFwy7UniPli44NKQGAglksjvOcpo95aZA==
 
-tinymce@^5.5.1, tinymce@^5.9.2:
+tinymce@^5.9.2:
   version "5.9.2"
   resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-5.9.2.tgz#c56a1d7800ac23026fbe6e0fcf444c0f157ccafe"
   integrity sha512-/dHTsbxo0YwLvB5krRqiw/qHEm04/k6l0dvAQ3hO5oNw4e9QalKcUQCdr+g/b/FWcsUMP6scvKmm8MX50/j3Cg==
